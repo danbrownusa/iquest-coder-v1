@@ -128,6 +128,7 @@ If you find our work helpful, please cite:
 @article{iquest-coder-v1-2025,
   title={IQuest-Coder-V1 Technical Report},
   author={IQuest Coder Team},
+  url={https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf}
   year={2025}
 }
 @article{codescaling,
