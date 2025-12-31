@@ -143,4 +143,15 @@ If you find our work helpful, please cite:
   journal={arXiv preprint arXiv:2512.23611},
   year={2025}
 }
+@article{loopcoder,
+  title={LoopCoder: Scaling Code Intelligence via Looped Language Models},
+  author={Jian Yang, Wei Zhang, Shawn Guo, Yizhi Li, Lin Jing, Zhengmao Ye, Shark Liu, Yuyang Song, Jiajun Wu, Che Liu, T. Zheng, Siwei Wu, L. Liao, X. Ma, Chuan Hao, Ran Tao, Yan Xing, Jianzhou Wang, Mingjie Tang, Aishan Liu, Zhoujun Li, Xianglong Liu, Weifeng Lv1, Bryan Dai},
+  year={2025}
+}
+@article{swe_compress,
+  title={Context as a Tool: Context Management for Long-Horizon SWE-Agents},
+  author={hukai Liu, Jian Yang, Bo Jiang, Yizhi Li, Jinyang Guo, Xianglong Liu, Bryan Dai},
+  journal={arXiv preprint arXiv:2512.22087},
+  year={2025}
+}
 ```
