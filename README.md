@@ -130,4 +130,10 @@ If you find our work helpful, please cite:
   author={IQuest Coder Team},
   year={2025}
 }
+@article{codescaling,
+  title={Scaling Laws for Code: Every Programming Language Matters},
+  author={Yang, Jian and Guo, Shawn and Jing, Lin and Zhang, Wei and Liu, Aishan and Hao, Chuan and Li, Zhoujun and Zhao, Wayne Xin and Liu, Xianglong and Lv, Weifeng and others},
+  journal={arXiv preprint arXiv:2512.13472},
+  year={2025}
+}
 ```
