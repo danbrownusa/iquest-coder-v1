@@ -1,3 +1,11 @@
+![Evaluation Results](./papers/iquest-coder-v1-logo.png)
+
+<p align="center">
+  📘 <a href="https://iquestlab.github.io">Blog</a >
+  &nbsp;•&nbsp;
+  📄 <a href="https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf">Technical Report</a >
+</p >
+
 # IQuest-Coder-V1 Model Family
 
 | Model | Link |
@@ -110,8 +118,9 @@ For Thinking models with reasoning support:
 vllm serve IQuest/IQuest-Coder-V1-40B-Thinking --enable-reasoning --reasoning-parser deepseek_r1 --tensor-parallel-size 8
 ```
 
+
 ## Evaluation Results
-![Evaluation Results](./papers/benchmark_comparison.png)
+![Evaluation Results](./papers/results.png)
 
 ## Limitations
 
